@@ -1,0 +1,2 @@
+threshold,sensitivity,specificity,precision,f1,false_negatives,false_positives,operating_point,model,dataset,auroc,auprc,brier_score
+0.39999999999999997,0.941025641025641,0.5085470085470085,0.7614107883817427,0.8417431192660549,23,115,Screening-oriented,"ResNet-18, ImageNet-pretrained, linear head fine-tuned",PneumoniaMNIST test set,0.859193513039667,0.893870670802237,0.15628369888258395

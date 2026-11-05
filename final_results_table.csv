@@ -1,0 +1,12 @@
+Metric,Value
+Test set size,624
+AUROC,0.859
+AUPRC,0.894
+Brier score,0.156
+Selected threshold,0.4
+Sensitivity,0.941
+Specificity,0.509
+Precision,0.761
+F1 score,0.842
+False negatives,23
+False positives,115

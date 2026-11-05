@@ -1,0 +1,2 @@
+Model,Dataset,n_test,AUROC,AUPRC,Brier score,Sensitivity,Specificity,Precision,F1 score,True positives,False positives,True negatives,False negatives
+"ResNet-18, ImageNet-pretrained, linear head fine-tuned",PneumoniaMNIST test set,624,0.859193513039667,0.893870670802237,0.15628369888258395,0.8769230769230769,0.7008547008547008,0.8300970873786407,0.8528678304239402,342,70,164,48
